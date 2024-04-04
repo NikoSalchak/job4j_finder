@@ -1,0 +1,7 @@
+C:\Users\Niko\Desktop\X\test1.txt
+C:\Users\Niko\Desktop\X\test2.txt
+C:\Users\Niko\Desktop\X\test3.txt
+C:\Users\Niko\Desktop\X\Y1\test1.txt
+C:\Users\Niko\Desktop\X\Y1\test2.txt
+C:\Users\Niko\Desktop\X\Y1\test3.txt
+C:\Users\Niko\Desktop\X\Y2\test4.txt
